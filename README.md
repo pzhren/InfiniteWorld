@@ -52,6 +52,10 @@ And here is the link for our 3D object assets list:
 ### Generation Scene
 We provide scripts in `generation scene` to import from the scene generated json file. You can convert them to usd format using `./multi_place.py`. Note: you need to change 'scene_files' 'output_files' and 'obj_data_usd' to your own paths in [code](https://github.com/pzhren/InfiniteWorld/blob/master/generation%20scene/multi_place.py#L189).
 
+## Dataset
+
+We integrated our dataset on Hugging Face, for more details please refer to [this link](https://huggingface.co/datasets/Starry123/InfiniteWorld).
+
 ## Benchmark
 
 ![20241202_220957](https://gitee.com/pzhren/img/raw/master/img/202412022210150.png)
