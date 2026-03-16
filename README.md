@@ -26,12 +26,16 @@ Rongtao Xu, Zitong Huang, Tongsheng Ding, Luyang Xie, Kaidong Zhang, Changfei Fu
 ![20241202_221116](https://gitee.com/pzhren/img/raw/master/img/202412022211180.png)
 
 Overview of the functions of InfiniteWorld simulator.  Our simulation platform supports different sensors, robot platforms, and teleoperation. In addition, it also realizes unlimited expansion of scene and object assets through generative and Sim2Real methods, and we have also built an annotation platform to reduce annotation costs and improve annotation quality.
+
 ### Language-Driven Automatic Scene Generation and Editing
 ![20241202_221141](https://gitee.com/pzhren/img/raw/master/img/202412022211858.png)Language-driven automatic scene generation and editing framework based on HOLODECK [77]. It can easily generate various interactive high-fidelity scenes that meet the requirements of users, including scene style replacement, object editing (e.g., adding/removing a  specific number of objects), and replacement (that is, replacing similar objects), etc.
+
 ### Depth-Prior-Constrained Real2Sim
 We use the depth prior to constrain the generation of the 3D model, which enhances simulation realism by integrating depth priors and normal priors into the Planar-based Gaussian Splatting Reconstruction (PGSR) framework.
 
 Additionally, this project contains Python scripts for post-processing reconstructed mesh scene `ply` files, which could help you optimize, repair, and enhance the 3D mesh. Especially, an example of a conda environment `real2sim/post-process/env.yaml` is provided, which has been tested to successfully run all scripts on Windows 11. 
+
+For specific usage methods, see [README.md](./real2sim/README.md).
 
 ### Annot8-3D
 
