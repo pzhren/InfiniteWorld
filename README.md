@@ -35,8 +35,8 @@ Feng Zheng<sup>:email:</sup>, Xiaodan Liang<sup>:email:</sup>，Liang Lin<sup>:e
 - **2025-08**: We have released multiple demos about [collaborative exploration of scene graphs](https://www.bilibili.com/video/BV1Js8DzPE4P?), [physics-based grabbing in reconstructed scenes](https://www.bilibili.com/video/BV1PH8RzQEWf?), [real robot](https://www.bilibili.com/video/BV1KbPdeKE1K?), and [benchmarks](#demo).
 - **2025-08**: We released the OWSMM benchmark and asset conversion interface.
 - **2025-07**: We have released the corresponding robot interface 🤖 and LAGSE-related code.
-- **2025-06**: The V3A team from Adelaide University won the championship 🏆 in the CVPR2025 SMM Challenge.
-- **2025-05**: We released the first version 🎉🎉🎉 of InfiniteWorld.
+- **2025-06**: The challenge ended successfully 🎉🎉🎉, attracting participation from more than 30 scientific research teams. Among them, the **V3A team from Adelaide University** won the championship in the CVPR2025 SMM Challenge🏆.
+- **2025-05**: We released the first version of InfiniteWorld 🤗.
 - **2025-04**: We held the first social mobile manipulation challenge 🏃‍♀️ - [CVPR2025 Embodied AI workshop challenge](https://smm-challenge.github.io/).
 
 
