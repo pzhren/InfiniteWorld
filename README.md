@@ -15,7 +15,7 @@ Feng Zheng<sup>:email:</sup>, Xiaodan Liang<sup>:email:</sup>，Liang Lin<sup>:e
 
 </div>
 
-## Updates
+## 💥Updates
 
 <!--
 **2026-01-29**: We update the [camera-ready version](https://link-to-your-file) 📸 of our paper and uploaded the official [paper poster](https://link-to-your-poster) for AAAI 2026.
