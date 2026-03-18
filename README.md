@@ -80,6 +80,7 @@ Detailed benchmark descriptions can be found [`here`](/benchmark/readme.md).
 - [Humanoid and quadruped robot explore in the room](https://www.bilibili.com/video/BV1Js8DzPE4P?)
 
 You can click on the links to view the videos directly.
+
 =======
 
 ## Citation
