@@ -13,8 +13,33 @@ Feng Zheng<sup>:email:</sup>, Xiaodan Liang<sup>:email:</sup>，Liang Lin<sup>:e
 [[`Paper`](https://arxiv.org/abs/2412.05789).]
 [[`Workshop/Web`](https://smm-challenge.github.io/)]
 
-
 </div>
+
+## Updates
+
+<!--
+**2026-01-29**: We update the [camera-ready version](https://link-to-your-file) 📸 of our paper and uploaded the official [paper poster](https://link-to-your-poster) for AAAI 2026.
+- **2025-11-21**: We release the code for X-SAM with [Qwen3-4B-Instruct-2507](https://link) and [Qwen3-1.7B](https://link). We will release the weights soon.
+- **2025-11-19**: We release the code for [Training X-SAM](https://link). Welcome to try it! If you have any questions, please feel free to open an issue.
+- **2025-11-08**: Congratulations! 🎉🎉🎉 X-SAM has been accepted by AAAI 2026! We will release all the code in the coming week!
+- **2025-09-28**: We update the [Local Demo](https://link) Inference script, you can run local inference instead of on the Web Demo.
+- **2025-08-11**: Thanks for your great attention to our work! We have deployed another [Online Demo2](https://link). You can also try it if [Online Demo1](https://link) is not available.
+- **2025-08-11**: We released the effective code for [Evaluation on All Segmentation Benchmarks](https://link). We have updated all code except for [Training X-SAM](https://link).
+- **2025-08-10**: We released the detailed instructions for [Demo Deployment](https://link).
+- **2025-08-09**: We released the code for [Training LLaVA-based MLLMs](https://link).
+- **2025-08-08**: We released the simple code for [Evaluation on All VLM Benchmarks](https://link).
+- **2025-08-06**: We are excited to publish the [Technical Report](https://link), please check it out for more technical details.
+- **2025-08-05**: We provided the [Model Weights](https://huggingface.co/your-model) 🤗.
+- **2025-07-26**: We deployed the [Online Demo](https://link), you can try it now!
+-->
+- **2025-08**: We released the OWSMM benchmark and asset conversion interface.
+- **2025-08**: We have released the corresponding robot interface 🤖 and LAGSE-related code.
+- **2025-06**: The V3A team from Adelaide University won the championship 🏆 in the CVPR2025 SMM Challenge.
+- **2025-05**: We released the first version 🎉🎉🎉 of InfiniteWorld.
+- **2025-04**: We held the first social mobile manipulation challenge 🏃‍♀️ - [CVPR2025 Embodied AI workshop challenge](https://smm-challenge.github.io/).
+
+
+
 
 ![20241202_215955](https://gitee.com/pzhren/img/raw/master/img/202412022200214.png)
 
