@@ -1,10 +1,12 @@
 <div align="center">
 <h1> :earth_africa: InfiniteWorld </h1>
-<h3>A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction</h3>
+<h3>An Open-Ended Simulation Framework for Embodied AI with Social and Collaborative Benchmarks</h3>
     
-Pengzhen Ren*, Min Li*, Zhen Luo*, Xinshuai Song*, Ziwei Chen*, Weijia Liufu*, Yixuan Yang*, Hao Zheng*
+Pengzhen Ren*, Min Li*, Zhen Luo*, Xinshuai Song*, Ziwei Chen*, Weijia Liufu*, Yixuan Yang*
 
-Rongtao Xu, Zitong Huang, Tongsheng Ding, Luyang Xie, Kaidong Zhang, Changfei Fu, Yang Liu, Liang Lin, Feng Zheng<sup>:email:</sup>, Xiaodan Liang<sup>:email:</sup>
+Hao Zheng，Rongtao Xu, Zitong Huang, Tongsheng Ding, Luyang Xie, Kaidong Zhang, Yang Liu
+
+Feng Zheng<sup>:email:</sup>, Xiaodan Liang<sup>:email:</sup>，Liang Lin<sup>:email:</sup>
 
 <sup>* </sup>equal contribution.   <sup>:email:</sup> corresponding author.
 
