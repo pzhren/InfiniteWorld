@@ -11,7 +11,7 @@ Feng Zheng<sup>:email:</sup>, Xiaodan Liang<sup>:email:</sup>，Liang Lin<sup>:e
 <sup>* </sup>equal contribution.   <sup>:email:</sup> corresponding author.
 
 [[`Paper`](https://arxiv.org/abs/2412.05789).]
-[[`CVPR2025 Embodied AI Workshop Challenge：Social Mobile Manipulation`](https://smm-challenge.github.io/)]
+[[`CVPR2025 Embodied AI Workshop Challenge`](https://smm-challenge.github.io/)]
 
 </div>
 
