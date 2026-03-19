@@ -58,11 +58,6 @@ Then you will see the simulation scene in the Isaac Sim window. Click the `Start
 - [Benchmark2](https://www.bilibili.com/video/BV1RXrVYuE8d?)
 - [Benchmark3](https://www.bilibili.com/video/BV1FTNCedExu?)
 - [Benchmark4](https://www.bilibili.com/video/BV1KbPdeKE1K?)
-=======
-- [Benchmark1](https://www.bilibili.com/video/BV199rVYBEnf?t=4.9)
-- [Benchmark2](https://www.bilibili.com/video/BV1RXrVYuE8d?t=3.5)
-- [Benchmark3](https://www.bilibili.com/video/BV1FTNCedExu?t=21.5)
-- [Benchmark4](https://www.bilibili.com/video/BV1KbPdeKE1K?t=0.9)
 
 
 
