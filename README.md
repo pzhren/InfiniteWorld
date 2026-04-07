@@ -61,6 +61,10 @@ The 3D annotation framework is open-sourced at: https://github.com/zh-plus/annot
 
 We provide code for converting 3D datasets into different formats in `3D format convert`. We have the scene converter and object converter. The scene converter requires installing the `pymeshlab` library. The script `./object_format_convert/obj_usd.py` allows you to convert objects in OBJ format to USD format for use in Isaac Sim. For batch conversions, you can use `obj_usd_multi.py`, though its compatibility with Isaac Sim is limited. Additionally, `./object_format_convert/pkl_obj.py` converts files from PKL to OBJ format, which is the first step in adapting the Objaverse dataset for use in Isaac Sim.
 
+- Format conversion: _PKL/PLY &rarr; OBJ &rarr; USD_. For example, [Objaverse](https://huggingface.co/datasets/allenai/objaverse).
+- Format conversion: _GLB &rarr; USD_. For example, [MH3D](https://github.com/matterport/habitat-matterport-3dresearch).
+
+
 The example of object converter is in the corresponding file folders. Due to the large size of the scene, the examples are in the link [`here`](https://pan.baidu.com/s/1F3cvNVf9hZG3h7AOD4FM0g?pwd=1234 ) with the [password:1234].
 
 And here is the link for our 3D object assets list:
@@ -70,6 +74,8 @@ And here is the link for our 3D object assets list:
 | PartNet              | 24         | 26,671    | Articulated objects | [Download](https://pan.baidu.com/s/1LPH-LKmYYoBu4sOvqUnzVA) | parn     |
 | Objaverse (Holodeck) | 940        | 4,042,937 | Small objects       | [Download](https://pan.baidu.com/s/17BPY5CV5szfTSXDuVKPtPQ) | etmn     |
 | ClothesNet           | 11         | 3,051     | Clothing            | [Download Link](https://sites.google.com/view/clothesnet/)  | -        |
+
+
 
 ### Generation Scene
 We provide scripts in `generation scene` to import from the scene generated json file. You can convert them to usd format using `./multi_place.py`. Note: you need to change 'scene_files' 'output_files' and 'obj_data_usd' to your own paths in [code](https://github.com/pzhren/InfiniteWorld/blob/master/generation%20scene/multi_place.py#L189).
