@@ -98,6 +98,7 @@ Detailed benchmark descriptions can be found [`here`](/benchmark/readme.md).
 - [Physical grabbing-based desktop organization in a reconstruction scenario](https://www.bilibili.com/video/BV1PH8RzQEWf?)
 - [Example of point target navigation for an agent in Real2Sim scenario](https://www.bilibili.com/video/BV1D7tAz1EuZ/?spm_id_from=333.1387.list.card_archive.click&vd_source=b01e665629cc1f07444fb56603b20deb)
 - [Humanoid and quadruped robot explore in the room](https://www.bilibili.com/video/BV1Js8DzPE4P?)
+- [An example of the expert demonstration trajectory for Benchmark 4](https://www.bilibili.com/video/BV1LrRiBYEhJ?)
 
 You can click on the links to view the videos directly.
 
